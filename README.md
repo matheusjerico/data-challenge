@@ -36,8 +36,8 @@ We are using FastAPI to create the API. The docs can be found [here](http://loca
 
 ## API Endpoints
 The API has two endpoints:
-- `similar-trips`
-- `weekly-trips`
+- `/similar-trips`
+- `/weekly-trips`
 
 ## 🍜 License
 

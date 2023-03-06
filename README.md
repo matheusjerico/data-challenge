@@ -32,7 +32,7 @@ make docker-compose-up
 ```
 
 ## API Docs
-We are using FastAPI to create the API. The docs can be found [here](http://localhost:8000/docs).
+We are using FastAPI to create the API. The docs can be found [here](http://localhost:8000/docs) (after you execut `make docker-compose-up`).
 
 ## API Endpoints
 The API has two endpoints:
